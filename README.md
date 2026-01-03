@@ -1,4 +1,4 @@
-# "TOKYO GAME SHOW 2025/2026"
+# "TOKYO GAME SHOW ( TGS ) 2025/2026"
 Cloning or Fake Proyek Website With Laravel 
 
 REAL WEBSITE : https://tgs.cesa.or.jp/en
